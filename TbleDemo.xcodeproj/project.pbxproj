@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18067D6527469C3B002DE808 /* Tandoor.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18067D6427469C3B002DE808 /* Tandoor.jpeg */; };
+		18067D6A27469C42002DE808 /* naan.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18067D6927469C42002DE808 /* naan.jpeg */; };
+		18067D6F27469C48002DE808 /* roti.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18067D6E27469C48002DE808 /* roti.jpeg */; };
+		18067D7427469C4E002DE808 /* sada.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18067D7327469C4E002DE808 /* sada.jpeg */; };
+		18067D7927469C53002DE808 /* masala.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18067D7827469C53002DE808 /* masala.jpeg */; };
+		18067D7E27469C59002DE808 /* cheese.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18067D7D27469C59002DE808 /* cheese.jpeg */; };
+		18067D8327469C5E002DE808 /* grill.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18067D8227469C5E002DE808 /* grill.jpeg */; };
+		18067D9B27469CD0002DE808 /* jumbo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18067D9A27469CD0002DE808 /* jumbo.jpeg */; };
 		18699544273F70EE00FAEF04 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18699543273F70EE00FAEF04 /* AppDelegate.swift */; };
 		18699546273F70EE00FAEF04 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18699545273F70EE00FAEF04 /* SceneDelegate.swift */; };
 		18699548273F70EE00FAEF04 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18699547273F70EE00FAEF04 /* ViewController.swift */; };
@@ -35,6 +43,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18067D6427469C3B002DE808 /* Tandoor.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Tandoor.jpeg; path = ../../../Downloads/Tandoor.jpeg; sourceTree = "<group>"; };
+		18067D6927469C42002DE808 /* naan.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = naan.jpeg; path = ../../../Downloads/naan.jpeg; sourceTree = "<group>"; };
+		18067D6E27469C48002DE808 /* roti.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = roti.jpeg; path = ../../../Downloads/roti.jpeg; sourceTree = "<group>"; };
+		18067D7327469C4E002DE808 /* sada.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sada.jpeg; path = ../../../Downloads/sada.jpeg; sourceTree = "<group>"; };
+		18067D7827469C53002DE808 /* masala.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = masala.jpeg; path = ../../../Downloads/masala.jpeg; sourceTree = "<group>"; };
+		18067D7D27469C59002DE808 /* cheese.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cheese.jpeg; path = ../../../Downloads/cheese.jpeg; sourceTree = "<group>"; };
+		18067D8227469C5E002DE808 /* grill.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = grill.jpeg; path = ../../../Downloads/grill.jpeg; sourceTree = "<group>"; };
+		18067D9A27469CD0002DE808 /* jumbo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = jumbo.jpeg; path = ../../../Downloads/jumbo.jpeg; sourceTree = "<group>"; };
 		18699540273F70EE00FAEF04 /* TbleDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TbleDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18699543273F70EE00FAEF04 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18699545273F70EE00FAEF04 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +118,14 @@
 				18699543273F70EE00FAEF04 /* AppDelegate.swift */,
 				18699545273F70EE00FAEF04 /* SceneDelegate.swift */,
 				18699547273F70EE00FAEF04 /* ViewController.swift */,
+				18067D9A27469CD0002DE808 /* jumbo.jpeg */,
+				18067D6427469C3B002DE808 /* Tandoor.jpeg */,
+				18067D6927469C42002DE808 /* naan.jpeg */,
+				18067D6E27469C48002DE808 /* roti.jpeg */,
+				18067D7327469C4E002DE808 /* sada.jpeg */,
+				18067D7827469C53002DE808 /* masala.jpeg */,
+				18067D7D27469C59002DE808 /* cheese.jpeg */,
+				18067D8227469C5E002DE808 /* grill.jpeg */,
 				18699549273F70EE00FAEF04 /* Main.storyboard */,
 				1869954C273F70F000FAEF04 /* Assets.xcassets */,
 				1869954E273F70F000FAEF04 /* LaunchScreen.storyboard */,
@@ -234,6 +258,14 @@
 				18699550273F70F000FAEF04 /* LaunchScreen.storyboard in Resources */,
 				1869954D273F70F000FAEF04 /* Assets.xcassets in Resources */,
 				1869954B273F70EE00FAEF04 /* Main.storyboard in Resources */,
+				18067D9B27469CD0002DE808 /* jumbo.jpeg in Resources */,
+				18067D6A27469C42002DE808 /* naan.jpeg in Resources */,
+				18067D7E27469C59002DE808 /* cheese.jpeg in Resources */,
+				18067D6527469C3B002DE808 /* Tandoor.jpeg in Resources */,
+				18067D6F27469C48002DE808 /* roti.jpeg in Resources */,
+				18067D8327469C5E002DE808 /* grill.jpeg in Resources */,
+				18067D7927469C53002DE808 /* masala.jpeg in Resources */,
+				18067D7427469C4E002DE808 /* sada.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
